@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609433728154.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2480013676",
+    "id" : "351781C8",
+    "lastKnownWriteTime" : 1590249632,
+    "last_content_update" : 1590249632,
+    "path" : "~/C-UWI/Courses/Year 3/COMP3912 - NCB-UWI Talent Labs/Sprint 7 - Data Mining/ClassLesson-DataMining/R_Exercise_Scrum_Cycle7_HR_data.R",
+    "project_path" : "R_Exercise_Scrum_Cycle7_HR_data.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

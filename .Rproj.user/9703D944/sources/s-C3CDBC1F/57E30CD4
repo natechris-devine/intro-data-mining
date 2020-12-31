@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590153544520.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "57E30CD4",
+    "lastKnownWriteTime" : 1590159161,
+    "last_content_update" : 1590159161403,
+    "path" : "~/C-UWI/Courses/Year 3/COMP3912 - NCB-UWI Talent Labs/Sprint 7 - Data Mining/ClassLesson-DataMining/dtrees-code.R",
+    "project_path" : "dtrees-code.R",
+    "properties" : {
+        "cursorPosition" : "60,29",
+        "scrollLine" : "54",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
